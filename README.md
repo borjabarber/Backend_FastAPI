@@ -11,21 +11,6 @@ API para gestión de clientes, planes, transacciones e invoices, desarrollada co
 - **Middleware:** Logging del tiempo de cada request.
 - **Zona horaria:** Endpoint para consultar la hora local de varios países.
 
-## Estructura del proyecto
-
-```
-fastAPI_framework/
-├── app/
-│   ├── main.py                # Punto de entrada de la API
-│   ├── db.py                  # Configuración de la base de datos
-│   ├── models.py              # Modelos de datos (SQLModel y Pydantic)
-│   └── routers/
-│       ├── customers.py       # Rutas para clientes
-│       ├── plans.py           # Rutas para planes
-│       └── transactions.py    # Rutas para transacciones
-├── requirements.txt           # Dependencias del proyecto
-```
-
 ## Instalación
 
 1. **Clona el repositorio:**
