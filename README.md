@@ -1,6 +1,6 @@
 # FastAPI Framework 
 
-API para gestión de clientes, planes, transacciones e invoices, desarrollada con **FastAPI** y **SQLModel**.
+Estudio y desarrolo de API para gestión de clientes, planes, transacciones e invoices, desarrollada con **FastAPI** y **SQLModel**.
 
 ## Características
 
