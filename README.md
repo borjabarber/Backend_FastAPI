@@ -52,10 +52,8 @@ API para gestión de clientes, planes, transacciones e invoices, desarrollada co
   ```bash
   sqlite3 db.sqlite3
   .tables
-  .schema
+
   ```
 
-## Contribuciones
 
-¡Las contribuciones son bienvenidas! Abre un issue o un pull request para sugerir mejoras.
 
