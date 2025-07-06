@@ -43,7 +43,6 @@ fastAPI_framework/
 3. **Ejecuta la API:**
    ```bash
    uvicorn app.main:app --reload
-   fastapi dev (ruta a main.py)
    ```
 
 4. **Accede a la documentación interactiva:**
